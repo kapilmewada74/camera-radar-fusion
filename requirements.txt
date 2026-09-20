@@ -1,0 +1,9 @@
+# Camera-only RADIATE object detection project
+ultralytics>=8.3.0
+torch>=2.4.0
+torchvision>=0.19.0
+opencv-python>=4.10.0
+numpy>=1.26.0
+PyYAML>=6.0.2
+matplotlib>=3.9.0
+pandas>=2.2.0
